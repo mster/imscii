@@ -84,6 +84,6 @@ Examples are uploaded as screenshots because GitHub's default styles makes them 
 
 #### Why doesn't my text file look my the console output?
 
-Well, that's due to the font your system uses!
+Well, that's due to the font your editor/system uses!
 
 Because characters (i.e `"` vs `#`) may have different widths depending on the font, each line of your ASCII Art may differ in length. To solve this, check out monospaced fonts! You can read more about them [here](https://en.wikipedia.org/wiki/Monospaced_font).
