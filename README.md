@@ -72,9 +72,9 @@ $ node myScript.js >> myArt.txt
 
 IMSCII can make some cool stuff in my opinion. Higher output resolutions will yield impressive results.
 
-![bubbles](https://user-images.githubusercontent.com/15038724/86881277-de989d00-c0a2-11ea-8120-fe2f0b8400c6.png)
+[![asciicast](https://asciinema.org/a/3gW73MFxlgRYegOgxb1OBAUvM.svg)](https://asciinema.org/a/3gW73MFxlgRYegOgxb1OBAUvM)
 
-![korra](https://user-images.githubusercontent.com/15038724/86881280-dfc9ca00-c0a2-11ea-981f-15bb478ab5f9.png)
+[![asciicast](https://asciinema.org/a/JZzhS5l18gKGP2djz3HMYh2rL.svg)](https://asciinema.org/a/JZzhS5l18gKGP2djz3HMYh2rL)
 
 No really, you can make them as big as you want -- even larger than the source image. Try it out.
 
