@@ -1,6 +1,6 @@
 {
   "name": "imscii",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "image to ascii",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/mster/imscii.git"
   },
-  "keywords": ["image", "ascii", "art"],
+  "keywords": [
+    "image",
+    "ascii",
+    "art"
+  ],
   "author": "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)",
   "license": "ISC",
   "bugs": {
