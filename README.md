@@ -76,8 +76,6 @@ IMSCII can make some cool stuff in my opinion. Higher output resolutions will yi
 
 No really, you can make them as big as you want -- even larger than the source image. Try it out.
 
-Examples are uploaded as screenshots because GitHub's default styles makes them look inverted and funky.
-
 ## FAQ
 
 #### Why doesn't my text file look my the console output?
