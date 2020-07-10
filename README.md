@@ -83,3 +83,7 @@ No really, you can make them as big as you want -- even larger than the source i
 Well, that's due to the font your editor/system uses!
 
 Because characters (i.e `"` vs `#`) may have different widths depending on the font, each line of your ASCII Art may differ in length. To solve this, check out monospaced fonts! You can read more about them [here](https://en.wikipedia.org/wiki/Monospaced_font).
+
+## Contributing
+
+See our guidelines, in [Contributing](https://github.com/mster/imscii/blob/master/CONTRIBUTING.md).

@@ -1,6 +1,6 @@
 {
   "name": "imscii",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "image to ascii",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,10 @@
     "art"
   ],
   "author": "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)",
-  "license": "ISC",
+  "contributors": [
+    "Enmanuel Magallanes <fmagalla@fiec.espol.edu.ec> (https://github.com/enmanuel-mag)"
+  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mster/imscii/issues"
   },
