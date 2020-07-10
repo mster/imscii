@@ -104,3 +104,4 @@ function imscii (read, options) {
     .then(paintASCII)
     .catch(console.error)
 }
+
