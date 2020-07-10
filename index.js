@@ -95,7 +95,7 @@ function imscii (read, options) {
     } else if (value >= 225 && value < 255) {
       return '#'
     } else {
-      return '_'
+      return ' '
     }
   }
 
@@ -104,4 +104,3 @@ function imscii (read, options) {
     .then(paintASCII)
     .catch(console.error)
 }
-
