@@ -56,8 +56,10 @@ npm install imscii
 
 Start sprinting!
 
+**artRobot.js**
+
 ```js
-;(function whoNeedsArtSchool () {
+;(function imsciify () {
   require('imscii')('/path/to/my/sick/photo.jpg', {
     width: 80
   })
@@ -65,7 +67,7 @@ Start sprinting!
 ```
 
 ```sh
-$ node myScript.js >> myArt.txt
+$ node artRobot.js >> myArt.txt
 ```
 
 ## Examples
@@ -78,7 +80,7 @@ No really, you can make them as big as you want -- even larger than the source i
 
 ## FAQ
 
-#### Why doesn't my text file look my the console output?
+#### Why doesn't my text file look like my the console output?
 
 Well, that's due to the font your editor/system uses!
 
