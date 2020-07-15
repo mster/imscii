@@ -1,17 +1,19 @@
 'use strict'
 
 const Jimp = require('jimp')
-const debug = require('util').debuglog('imscii')
+const { debuglog } = require('util')
+
+const debug = debuglog('imscii')
 const print = console.log
 
 module.exports = imscii
 
 function imscii (read, options) {
+  if (!options) options = {}
+
   const pmap = []
 
   function mapImage (img) {
-    if (!options) options = {}
-
     const { width, height } = options
 
     if (width && height) {
