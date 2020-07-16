@@ -74,7 +74,7 @@ $ node artRobot.js >> myArt.txt
 
 IMSCII can make some cool stuff in my opinion. Higher output resolutions will yield impressive results.
 
-[![asciicast](https://asciinema.org/a/3gW73MFxlgRYegOgxb1OBAUvM.svg)](https://asciinema.org/a/3gW73MFxlgRYegOgxb1OBAUvM)
+[![asciicast](https://asciinema.org/a/347780.svg)](https://asciinema.org/a/347780)
 
 No really, you can make them as big as you want -- even larger than the source image. Try it out.
 
