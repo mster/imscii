@@ -1,6 +1,6 @@
 {
   "name": "imscii",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "image to ascii",
   "main": "index.js",
   "scripts": {
@@ -26,8 +26,7 @@
   },
   "homepage": "https://github.com/mster/imscii#readme",
   "dependencies": {
-    "image-decode": "^1.2.2",
-    "jimp": "^0.14.0"
+    "jimp": "^0.16.1"
   },
   "devDependencies": {
     "standard": "^14.3.4"
