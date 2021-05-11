@@ -1,6 +1,6 @@
 {
   "name": "imscii",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "image to ascii",
   "main": "index.js",
   "scripts": {
